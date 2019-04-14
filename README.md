@@ -2,10 +2,6 @@
 
 Bilibili用户爬虫
 
-知乎专栏地址：[https://zhuanlan.zhihu.com/p/24434456](https://zhuanlan.zhihu.com/p/24434456)
-
-本文所使用的数据可视化为 [infogr.am](infogr.am)
-
 **该爬虫仅供学习使用**
 
 ## 文件介绍
@@ -16,19 +12,14 @@ Bilibili用户爬虫
 
 ## Bilibili用户报告（Web App）
 
-演示地址：[http://ursb.me/bilibili-report](http://ursb.me/bilibili-report)
-GitHub：[https://github.com/airingursb/bilibili-report](https://github.com/airingursb/bilibili-report)
-
 **跪求Star Orz...**
 
 ## 用户数据初步分析
 
-> 转自我的博客 [B站2000万用户分析](http://ursb.me/2016/02/23/B%E7%AB%992000%E4%B8%87%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90/)
-
 ### 基本概况
 
 - 总数据数：20119918
-- 抓取用户的顺序为其注册时间顺序：2009-06-24 14:06:54 至 2016-02-18 21:04:52
+- 抓取用户的顺序为其注册时间顺序：2009-06-24 14:06:54 至 2019-02-18 21:04:52
 - 预估遗漏数据：不超过2%
 - 抓取字段：用户id，昵称，性别，头像，等级，经验值，粉丝数，生日，地址，注册时间，签名，等级与经验值等。
 
